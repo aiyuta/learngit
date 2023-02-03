@@ -1,4 +1,2 @@
 I start to learn git today
-it will be a big challenge to me cause i have know so little about it 
-but i have to dive into it 
-cause i wnana change my life through hardworking
+test successfully
